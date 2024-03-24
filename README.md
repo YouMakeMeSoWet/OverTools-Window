@@ -22,4 +22,6 @@ Entertainment's Overwatch.
 # Building
 - use ```pyinstaller --onefile --icon=Designer.ico OvertoolsWindow.py``` to build it yourself
 
-![Screenshot 2024-03-22 181017](https://github.com/YouMakeMeSoWet/OverTools-Window/assets/105253882/f3b482e8-3baa-43a0-a15c-5b17e2352a37)
+![image](https://github.com/YouMakeMeSoWet/OverTools-Window/assets/105253882/7bfff57d-7219-4099-9f0d-6d337fe9dbde)
+
+(this is not officially part of Overtool, this is an induidual project)
