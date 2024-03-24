@@ -11,9 +11,7 @@ Entertainment's Overwatch.
 - **OverTools**: Download and set up OverTools on your machine. The script assumes the availability of DataTool.exe from OverTools.
 
 # Usage:
-**1.** Run the script.
-**2.** Specify the Overwatch game folder, output folder, and skin name.
-**3.** Click the "Export Skin" button to initiate the extraction process.
+Place the **exe** in the "toolchain-release" folder when you download it from the DataWatch server and run the exe
 
 # Notes:
 - Ensure that the Overwatch game folder is correctly specified to enable successful extraction.
