@@ -1,4 +1,4 @@
-# OverTools Extractor
+# OverTools Window
 This Python script provides a graphical user interface (GUI) for extracting Overwatch game assets
 using OverTools. OverTools is a utility for extracting various game assets from Blizzard
 Entertainment's Overwatch.
@@ -18,8 +18,8 @@ Place the **exe** in the "toolchain-release" folder when you download it from th
 - The extracted assets will be saved to the specified output folder.
 
 # Building
-- use ```pyinstaller --onefile --icon=Designer.ico OvertoolsWindow.py``` to build it yourself
+- use ```pyinstaller --onefile OvertoolsWindow.py``` to build it yourself
 
-![image](https://github.com/YouMakeMeSoWet/OverTools-Window/assets/105253882/7bfff57d-7219-4099-9f0d-6d337fe9dbde)
+![image](https://github.com/YouMakeMeSoWet/OverTools-Window/assets/105253882/595b1af1-25cb-4c75-8e76-5306fe52068f)
 
 (this is not officially part of Overtool, this is an induidual project)
