@@ -20,6 +20,6 @@ Place the **exe** in the "toolchain-release" folder when you download it from th
 # Building
 - use ```pyinstaller --onefile OvertoolsWindow.py``` to build it yourself
 
-![image](https://github.com/YouMakeMeSoWet/OverTools-Window/assets/105253882/595b1af1-25cb-4c75-8e76-5306fe52068f)
+![image](https://github.com/YouMakeMeSoWet/OverTools-Window/assets/105253882/f6afdfcf-6e2b-47e2-b1c3-08f2afabf621)
 
 (this is not officially part of Overtool, this is an induidual project)
